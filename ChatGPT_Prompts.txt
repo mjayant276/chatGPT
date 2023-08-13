@@ -1,0 +1,46 @@
+ChatGPT - 
+
+Prompts:
+
+Problem Solving or Mathematics:
+--------------------------------
+Calculate the 2 to the power of 4 
+Or Calculate the sum of sin 30 and cos 30
+
+
+Story on Car:
+-------------
+Write a horror story when a person is in the jungle and the car does not start
+
+Summarize the Horror Story:
+--------------------------
+Write a horror story in three sentences when a person is in the jungle and the car does not start
+
+
+Poem:
+-----
+Can you write a short poem on describing the situation while eating palak paneer
+
+Summarize the following Text:
+----------------------------
+Text Summarization 
+Task : Summarize the Text Below in less than 100 words
+Text : Chacha Chaudhary is a middle class Indian, frail but an extremely intelligent elder. The word chacha means uncle in Hindi, while Chaudhary is a term used for landlords. A common saying about him is that "Chacha Chaudhary ka dimaag computer se bhi tez chalta hai" (Chacha Chaudhary's brain runs faster than a computer), which is a testament to his unparalleled wisdom and wits. 
+Chacha Chaudhary's attire includes his red turban, a wooden stick, a waistcoat with a double inside pocket, and a pocket watch. His household consists of his wife Bini (Chachi), a faithful street dog called Rocket and a giant alien from jupiter named Sabu. Sometimes, a tiny man called 'Tingu Master' is also shown to live with them. Chacha Chaudhary enjoys eating watermelon with relish but mangoes are his weakness, and takes off for a walk with Sabu and Rocket, whenever Chachi nags him. When he takes off his turban, it is shown that he is completely bald
+
+Prompt Engineering:
+-------------------
+Prompt 1 :  Write a tweet about movieAI
+
+Prompt 2 :  Write a tweet about movieAI ? MovieAI writes about Akshay Kumar 
+
+Prompt 3 :  Write a tweet about movieAI as Akshay Kumar is a Father of two kids in the movie Palampa: MovieAI narrates how Akshay Kumar makes ends meet to raise the kids
+
+Prompt 4 :  Write a tweet about movieAI as he is a Father of two kids in the movie:MovieAI narrates how he makes ends meet to raise the kids
+
+
+Writing a Blog Post:
+---------------------
+Subject : Organic Food Products
+Task : Write me a blog Post on Organic Food Products consisting of 500 words which is written in a informative and persuasive tone explaining the benifists of Orgnic food products.
+Context : You are a Organic food product marketer for a company "New Organic Limited" and would like to target segment of people who cater to Organic Food products than the high calorie diabetic food product.
